@@ -1,0 +1,14 @@
+C:\Users\jpine\OneDrive\Escritorio\Programación I Tarea 4 Desafios\Deafio2\Deafio2\bin\Debug\net8.0\Deafio2.exe
+C:\Users\jpine\OneDrive\Escritorio\Programación I Tarea 4 Desafios\Deafio2\Deafio2\bin\Debug\net8.0\Deafio2.deps.json
+C:\Users\jpine\OneDrive\Escritorio\Programación I Tarea 4 Desafios\Deafio2\Deafio2\bin\Debug\net8.0\Deafio2.runtimeconfig.json
+C:\Users\jpine\OneDrive\Escritorio\Programación I Tarea 4 Desafios\Deafio2\Deafio2\bin\Debug\net8.0\Deafio2.dll
+C:\Users\jpine\OneDrive\Escritorio\Programación I Tarea 4 Desafios\Deafio2\Deafio2\bin\Debug\net8.0\Deafio2.pdb
+C:\Users\jpine\OneDrive\Escritorio\Programación I Tarea 4 Desafios\Deafio2\Deafio2\obj\Debug\net8.0\Deafio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpine\OneDrive\Escritorio\Programación I Tarea 4 Desafios\Deafio2\Deafio2\obj\Debug\net8.0\Deafio2.AssemblyInfoInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\Programación I Tarea 4 Desafios\Deafio2\Deafio2\obj\Debug\net8.0\Deafio2.AssemblyInfo.cs
+C:\Users\jpine\OneDrive\Escritorio\Programación I Tarea 4 Desafios\Deafio2\Deafio2\obj\Debug\net8.0\Deafio2.csproj.CoreCompileInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\Programación I Tarea 4 Desafios\Deafio2\Deafio2\obj\Debug\net8.0\Deafio2.dll
+C:\Users\jpine\OneDrive\Escritorio\Programación I Tarea 4 Desafios\Deafio2\Deafio2\obj\Debug\net8.0\refint\Deafio2.dll
+C:\Users\jpine\OneDrive\Escritorio\Programación I Tarea 4 Desafios\Deafio2\Deafio2\obj\Debug\net8.0\Deafio2.pdb
+C:\Users\jpine\OneDrive\Escritorio\Programación I Tarea 4 Desafios\Deafio2\Deafio2\obj\Debug\net8.0\Deafio2.genruntimeconfig.cache
+C:\Users\jpine\OneDrive\Escritorio\Programación I Tarea 4 Desafios\Deafio2\Deafio2\obj\Debug\net8.0\ref\Deafio2.dll
